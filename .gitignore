@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+*.sqlite3
+.ipynb_checkpoints/
+*.log
+*.h5
+*.pth
+*.pt
+*.onnx
